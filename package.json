@@ -1,0 +1,15 @@
+{
+  "name": "tco",
+  "version": "1.0.0",
+  "description": "Show off Koa app using node-bin",
+  "main": "index.js",
+  "scripts": {
+    "test": "./index.js"
+  },
+  "author": "Aria Stewart <aredridel@dinhe.net>",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^0.13.0",
+    "node-bin": "^0.11.14"
+  }
+}
